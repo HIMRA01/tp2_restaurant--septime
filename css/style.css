@@ -1,0 +1,49 @@
+body {
+  background-color: rgb(255, 255, 255);
+  width: 30%;
+  margin: auto;
+  margin-top: 9px;
+}
+
+header {
+  text-align: center;
+}
+
+.logo {
+  width: 100px;
+  height: 200px;
+}
+
+
+.flotte{
+display: flex;
+
+}
+
+#aqw{
+display: flex;
+
+}
+
+img{
+    width: 200px;
+    height: 200px ;
+margin-right: auto;
+
+
+
+}
+
+
+.flotte1{
+
+display: flex;
+    
+}
+
+
+.flotte2{
+
+display: flex;
+    
+}
